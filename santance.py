@@ -1,0 +1,5 @@
+print("1. Mix 500g of flour, 10g yeast and 300ml water ina bowl.")
+print("2. Knead the dough for 10 munits.")
+print("3. Add 3g of salt.")
+print("4. Leave to rise for 2 Hours.")
+print("5. Bake at 200 Degrees C for 30 Munits.")
